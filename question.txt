@@ -68,11 +68,10 @@ Translation
 3）这本书是给那些已经掌握了英语基础知识且现在要用所学到的语言知识来阅读专业书籍的学生使用的。
 4）从大学生入学迎新的第一天到第一学年的最后一天，这个项目都为学生提供支持。
 1)To reinforce national defense education, freshmen generally have a one-month military training after entering university.
-
-
-
-2)There's no denying that quality education is receiving increasing attention, but exam-oriented education remains a prominent issue. 3)Traditionally in China, college students'educational expenses are covered by their parents; but now, it is getting increasingly common for students to pay their tuition by means of education loans or part- time jobs.
+2)There's no denying that quality education is receiving increasing attention, but exam-oriented education remains a prominent issue.
+3)Traditionally in China, college students'educational expenses are covered by their parents; but now, it is getting increasingly common for students to pay their tuition by means of education loans or part- time jobs.
 4)In the US, students can choose their majors in their first or second year at college. In China, however, it's common practice for students to decide on their majors upon entering college.
+
 iAssess
 1-7 Unit test
 Vocabulary and structure
@@ -234,7 +233,7 @@ iAssess
 2-7 Unit test
 Vocabulary and structure 1) A
 2)C
- 3) D
+3) D
 4) C 5) B 1. visible
 2. indispensable 3. assured 4. devoted 5.exhausting Banked cloze 1) C
 2) F 3) Н 4) B 5) G 6) E 7) A 
@@ -796,13 +795,21 @@ Success is having a loving family and a healthy body.
 Success means being faithful to your original aspirations and forging ahead.
 6-5 iExplore 2: Building your language Words and expressions
 1. insight,insights 2. encounter 3. dedication 4. accomplished 5. perseverance 6. fulfillment 7. profound 8.tempt
- 1. lay down their arms
-2. to and fro 3. carried out 4. cut back on
-5. set your mind to it Collocations 1. achieve 2. encounter 3. gained 4. arouse 5.opposition 6.Lacking
-Vocabulary learning strategies 1. gave me a strong sense of fulfillment 2. set any goal
+1. lay down their arms
+2. to and fro
+3. carried out
+4. cut back on
+5. set your mind to it Collocations
 
-
-
+1. achieve
+2. encounter
+3. gained
+4. arouse
+5.opposition
+6.Lacking
+Vocabulary learning strategies
+1. gave me a strong sense of fulfillment
+2. set any goal
 3. need a detailed marketing plan
 4. the importance of passion and perseverance to success 5. those who have no dreams will never accomplish anything Translation
 1）这些人都经历过事业上的挫折，有时他们的自信心也深受打击，但是他们都成功地战胜了挑战，取得了他们未曾想到过的更大成功。
@@ -818,7 +825,7 @@ Vocabulary and structure
 4) A
 5) B
 1. combine with
-2.profound 
+2. profound 
 3. stands for
 4.quit
 5. do away with
@@ -890,9 +897,6 @@ Banked cloze
 1)defeated
 2)intuition
 3)referred
-
-
-
 4)admit
 5)transforming 6)match
 7) barriers
@@ -906,7 +910,6 @@ powerful, social networks closer and in almost every realm of human activities, 
 2. popularized 3.shift
 4. generate 5. innovative 6. impacts
 1. have a say in 
-
 2. turn to
 3. pointed to 4. working on 5. open up 6. making use of Collocations 1. work out 2. work on, work at 3. turn off
 4. take off 5. turned up 6. took up
@@ -957,16 +960,12 @@ Reading comprehension
 5) B
 
 
-
 Translation
 1)It is reported that mobile payments are popular in both Chinese urban and rural areas.
 2)It is believed that the Internet is bringing China into a brand-new era.
 3)It is reported that many Chinese express companies will deliver goods by drones.
 1）据报道，这场雨将持续一周。
 2）人们认为人类与人工智能之间的关系不是竞争而是合作。
-
-
-
 
 Unit 8 For a better planet
 iExplore 1
@@ -980,9 +979,9 @@ resources are just 27 percent of the global average and are unevenly distributed
 But the good news is that China is making efforts to conserve its water resources and to address its current water challenges. 8-3 iExplore 1： Building your language
 Words and expressions 1. sustainable
 2. conservation 3.solar
-4. ambitious 5. promote 6. motivation 7. prevention 1) is
+4. ambitious 5. promote 6. motivation 7. prevention
+1) is
 2)prone to 
-
 3)It goes without saying that
 4)playing a role in
 5)On the whole
@@ -1002,7 +1001,6 @@ Vocabulary learning strategies
 3)beautify
 4)capital
 5)characterization
-
 6)conservation
 7)restore
 1) C
@@ -1018,9 +1016,6 @@ Language focus
 3. of which
 4. in which
 5. of whom
-
-
-
 Banked cloze
 1)witnessed 2)ambitious 3)commitments 4)innovation 5)sustainable 6)burden 7)recognition iExplore 2
 8-4 iExplore 2: Reading Viewing
@@ -1032,7 +1027,6 @@ Banked cloze
 landmarks are beautifully illuminated. However, helpful as artificial lights are, they can be troublesome if not used in a rational way. For instance, an excessive amount of artificial lights may cause sleep troubles, leading to health problems.
 8-5 iExplore 2: Building your language Words and expressions
 1. exterior 2.disrupt 3. delicate 4. measurable 5.restore 
-
 6.combat
 1)has a
 2)effect on
@@ -1051,7 +1045,6 @@ Collocations
 Vocabulary learning strategies
 1)人口过剩
 2)过于自信的
-
 3)超支
 4）变得过热；（使）过热
 5)高估
@@ -1065,9 +1058,6 @@ Vocabulary learning strategies
 Translation
 1）日益智能化的城市规划以及低碳省市的建设已经帮助降低人
 们对私家车和能源的需求.
-
-
-
 2）这种光及其用电都被浪费了，因为光被投射到空中，而不是
 照到人们想要照亮的实际物体和区域上。
 3）环境污染问题不是通过短期努力所能够解决的。
@@ -1113,5 +1103,4 @@ Translation
 2)The beauty of Guilin mountain and water is more than words can describe.
 3)We were more than glad to see the results of environmental governance.
 1）她是如何在恶劣的环境下生活的，我们不得而知。
-满分学
 2）这个学生变得非常无礼，到了他老师都不能忍受的地步。
